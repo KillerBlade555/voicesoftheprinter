@@ -12,6 +12,10 @@ As of Update D07 most prints are now broken with the new collision system. We wi
 This is a Github containing all the 3D prints uploaded to [3D Print forum](https://discord.com/channels/512287844258021376/1132040858343059638) in the EternityDev Discord. Updated by multiple indivuduals to ensure it wont be deleted like the last one.
 
 There are tutorials made if you need help making prints, or need to make large prints. If you are confused and still need help please feel free to ask in the 3D forum as multiple people can assist you.
+# Guides
+### [Printer Guide](https://github.com/madrod228/voicesoftheprinter/blob/main/Guide-VOTV%20Printer.md)
+### [Speed Printing and Bypassing Printer limit](https://github.com/madrod228/voicesoftheprinter/blob/main/Guide-Bypass%20Limit%20and%20Speedprinting.md)
+### [Baking Texture](https://github.com/madrod228/voicesoftheprinter/blob/main/Guide-How%20to%20bake%20textures%20in%20Blender.md)
 
 # Pages
 ### [Page 1](https://github.com/madrod228/voicesoftheprinter/blob/main/Page%2001.md)
