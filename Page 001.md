@@ -1,6 +1,6 @@
 # Page 1
 ## [Among Us](https://github.com/madrod228/voicesoftheprinter/raw/main/The%20Archive/Page%20001/Astolfo.rar) CR: haru_3s its_sasha
-![image](https://github.com/madrod228/voicesoftheprinter/assets/9602000/77f6e137-567d-40c1-b232-d92c1a866d9f) 
+![image](https://github.com/KillerBlade555/voicesoftheprinter/assets/9602000/77f6e137-567d-40c1-b232-d92c1a866d9f) 
 ## [Boy Kisser Among Us](https://github.com/madrod228/voicesoftheprinter/raw/main/The%20Archive/Page%20001/boykisser_amongus.rar) CR: haru_3s
 ![image](https://github.com/madrod228/voicesoftheprinter/assets/9602000/313339de-93b8-4ca6-88e4-c53c9c4e6721)
 ## [Peep](https://github.com/madrod228/voicesoftheprinter/raw/main/The%20Archive/Page%20001/peep.rar) CR: tammasun
